@@ -38,4 +38,6 @@ public sealed class SRLayerMask {
     public const int PlayerHand = 256;
     
     public const int InteractableTrigger = 512;
+    
+    public const int MonsterCapsual = 1024;
 }
